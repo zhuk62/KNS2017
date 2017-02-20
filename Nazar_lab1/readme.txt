@@ -1,1 +1,1 @@
-Назар Богдан Варіант 14
+Nazar Bogdan Variant 14
