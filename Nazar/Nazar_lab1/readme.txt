@@ -1,0 +1,1 @@
+Nazar Bogdan Variant-14
