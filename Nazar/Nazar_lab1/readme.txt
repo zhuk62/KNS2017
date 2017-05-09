@@ -1,1 +1,1 @@
-Nazar Bogdan Variant-13
+Nazar Bogdan Variant 13
