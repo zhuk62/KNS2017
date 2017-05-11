@@ -18,3 +18,6 @@ C:\Users\Valeriy\Documents\Visual Studio 2015\Projects\tsptsp3\tsp\obj\Debug\tsp
 E:\Uni\Kryvyi\5\tsptsp3\tsp\bin\Debug\tsp.XML
 E:\Uni\Kryvyi\5\tsptsp3\tsp\obj\Debug\tsp.exe
 E:\Uni\Kryvyi\5\tsptsp3\tsp\obj\Debug\tsp.pdb
+E:\Uni\Kryvyi\Pysarenko\Pysarenko\Pysarenko_lab5\lab5\tsp\bin\Debug\tsp.XML
+E:\Uni\Kryvyi\Pysarenko\Pysarenko\Pysarenko_lab5\lab5\tsp\obj\Debug\tsp.exe
+E:\Uni\Kryvyi\Pysarenko\Pysarenko\Pysarenko_lab5\lab5\tsp\obj\Debug\tsp.pdb
