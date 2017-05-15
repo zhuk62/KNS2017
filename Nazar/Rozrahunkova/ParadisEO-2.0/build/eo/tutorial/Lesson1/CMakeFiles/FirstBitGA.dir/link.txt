@@ -1,0 +1,3 @@
+"C:\Program Files (x86)\ToolsparadiseEO\CMake\bin\cmake.exe" -E remove -f CMakeFiles\FirstBitGA.dir/objects.a
+C:\PROGRA~2\TOOLSP~1\MinGW\bin\ar.exe cr CMakeFiles\FirstBitGA.dir/objects.a @CMakeFiles\FirstBitGA.dir\objects1.rsp
+C:\PROGRA~2\TOOLSP~1\MinGW\bin\G__~1.EXE   -fopenmp -Wunknown-pragmas -O2    -Wl,--whole-archive CMakeFiles\FirstBitGA.dir/objects.a -Wl,--no-whole-archive  -o FirstBitGA.exe -Wl,--out-implib,libFirstBitGA.dll.a -Wl,--major-image-version,0,--minor-image-version,0  -LC:\ParadisEO-2.0\build\eo\lib\Release ..\..\lib\libga.a ..\..\lib\libeo.a ..\..\lib\libeoutils.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
