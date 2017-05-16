@@ -1,2 +1,0 @@
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\ar.exe cr ..\lib\libmoeo.a  CMakeFiles/moeo.dir/core/moeoObjectiveVectorTraits.cpp.obj
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\ranlib.exe ..\lib\libmoeo.a

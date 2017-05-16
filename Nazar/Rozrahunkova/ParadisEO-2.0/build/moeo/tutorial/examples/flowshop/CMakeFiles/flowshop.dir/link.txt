@@ -1,2 +1,0 @@
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\ar.exe cr lib\libflowshop.a  CMakeFiles/flowshop.dir/FlowShopBenchmarkParser.cpp.obj CMakeFiles/flowshop.dir/FlowShopEval.cpp.obj CMakeFiles/flowshop.dir/FlowShopObjectiveVectorTraits.cpp.obj CMakeFiles/flowshop.dir/FlowShopOpCrossoverQuad.cpp.obj CMakeFiles/flowshop.dir/FlowShop.cpp.obj
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\ranlib.exe lib\libflowshop.a

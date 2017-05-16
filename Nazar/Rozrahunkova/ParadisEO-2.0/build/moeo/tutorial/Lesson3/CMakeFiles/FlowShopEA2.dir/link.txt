@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\ToolsparadiseEO\CMake\bin\cmake.exe" -E remove -f CMakeFiles\FlowShopEA2.dir/objects.a
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\ar.exe cr CMakeFiles\FlowShopEA2.dir/objects.a @CMakeFiles\FlowShopEA2.dir\objects1.rsp
-C:\PROGRA~2\TOOLSP~1\MinGW\bin\G__~1.EXE  -Wunknown-pragmas -O2    -Wl,--whole-archive CMakeFiles\FlowShopEA2.dir/objects.a -Wl,--no-whole-archive  -o FlowShopEA2.exe -Wl,--out-implib,libFlowShopEA2.dll.a -Wl,--major-image-version,0,--minor-image-version,0  ..\..\..\eo\lib\libeoutils.a ..\..\..\eo\lib\libga.a ..\..\..\eo\lib\libeo.a ..\..\lib\libmoeo.a ..\examples\flowshop\lib\libflowshop.a ..\..\..\eo\lib\libeo.a ..\..\..\eo\lib\libeoutils.a -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
